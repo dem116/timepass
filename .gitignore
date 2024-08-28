@@ -2,9 +2,9 @@
 node_modules/
 
 # npm
-.log
-.lock
-npm-debug.log*
+.log/
+.lock/
+npm-debug.log/
 
 # Local development
 .env
