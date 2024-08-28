@@ -10,9 +10,9 @@ Asegúrate de tener [Node.js](https://nodejs.org/) instalado en tu sistema.
 
 ## Pasos para ejecutar el código
 
-`npm install`: Con esto instalaremos las dependecia de express
+`npm install`: Con esto instalaremos las dependecia de express CHEK
 
-📂 Estructura del Código
+📂 Estructura del Código CHEK
 
 📄 app.js: Contiene el código principal de la aplicación con la configuración de Express, middleware y rutas.
 📂 middlewares: Carpeta que contiene los middlewares para obtener la hora actual y la validación.
