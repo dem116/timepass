@@ -2,8 +2,8 @@
 node_modules/
 
 # npm
-*.log
-*.lock
+.log
+.lock
 npm-debug.log*
 
 # Local development
@@ -11,6 +11,3 @@ npm-debug.log*
 
 # Visual Studio Code
 .vscode/
-
-# lock.json
-.package-lock.json
