@@ -11,3 +11,6 @@ npm-debug.log*
 
 # Visual Studio Code
 .vscode/
+
+# lock.json
+.package-lock.json
